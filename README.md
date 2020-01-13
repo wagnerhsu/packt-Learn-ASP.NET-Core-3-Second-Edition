@@ -59,9 +59,25 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Kenneth Yamikani Fukizi**
 is a software engineer, solutions architect, and consultant with more than 14 years of experience.
 He is passionate about programming and web platforms. His experience includes working as a software engineering contractor/consultant on various projects for clients based in South Africa, Australia, the U.S.A, and Canada.
-Kenneth is based in Cape Town and is the founder of the AfrikanCoder™ project, on which he works on a part-time basis. Kenneth is a Microsoft Certified Trainer®, Microsoft Certified Solutions Developer®, and has other technical qualifications. He holds a bachelor's degree in computer science and a master's degree in finance and is currently pursuing a PhD in computer science.
+Kenneth is based in Cape Town and is the founder of the AfrikanCoder�project, on which he works on a part-time basis. Kenneth is a Microsoft Certified Trainer®, Microsoft Certified Solutions Developer®, and has other technical qualifications. He holds a bachelor's degree in computer science and a master's degree in finance and is currently pursuing a PhD in computer science.
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+## Table of Contents
+### 01 What is ASP.NET Core 3
+### 02 Setting Up the Environment
+### 03 Continuous Integration Pipeline in Azure DevOps
+### 04 Basic Concepts of ASP.NET Core 3 via a Custom Application: Part 1
+### 05 Basic Concepts of ASP.NET Core 3 via a Custom Application: Part 2
+### 06 Introducing Razor Components and SignalR
+### 07 Creatin ASP.NET Core MVC Applications
+### 08 Creating Web API Applications
+### 09 Accessing Data Using Entity Framework Core 3
+### 10 Securing ASP.NET Core 3 Applications
+### 11 Securing ASP.NET Applications - Vulnerabilities
+### 12 Hosting ASP.NET Core 3 Applications
+### 13 Managing ASP.NET Core 3 Applications
+
 
 
